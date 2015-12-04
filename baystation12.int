@@ -5,7 +5,5 @@ DIR: maps
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 509.1312
-WINDOW: maps\exodus-1.dmm
-FILE: maps\exodus-1.dmm
 */
 // END_INTERNALS
